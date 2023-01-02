@@ -39,6 +39,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorSantosDev&theme=dark&hide_border=falso)](https://git.io/streak-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSantosDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantosDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/VictorSantosDev/VictorSantosDev/blob/output/github-contribution-grid-snake.svg)
