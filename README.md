@@ -37,8 +37,9 @@
 
 ### 🔥 Meu Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictorSantosDev&border_radius=15.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&type=png)](https://git.io/streak-stats)
-
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=VictorSantosDev&border_radius=15.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&type=png)](https://git.io/streak-stats)
+</div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSantosDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSantosDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
