@@ -1,23 +1,21 @@
 <div id="header">
+  <h1>Victor Emanuel Almeida Santos</h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/victor-e-2b8452a7/" target="_blank">
+    <a href="https://www.linkedin.com/in/victor-e-2b8452a7/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5511964780920&text=Oi%20Victor%20tudo%20bem%20?%20" target="_blank">
+    <a href="https://api.whatsapp.com/send?phone=5511964780920&text=Oi%20Victor%20tudo%20bem%20?%20">
       <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
-    <a href="https://instagram.com/victor_sannttoss?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-      <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Whatsapp Badge"/>
+    <a href="https://instagram.com/victor_sannttoss?igshid=MzNlNGNkZWQ4Mg==">
+      <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
-
-  <h1>
-    Victor Emanuel Almeida Santos
-  </h1>
 </div>
 
-### 🛠️ Linguagens e Ferramentas:
+---
 
+### :open_book: Copetenciais: 
 <div>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" width="60"/>
