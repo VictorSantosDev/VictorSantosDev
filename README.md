@@ -37,7 +37,7 @@
 
 ### 🔥 Meu Status
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VictorSantosDev&theme=dark&hide_border=falso)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorSantosDev&border_radius=15.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&type=png)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorSantosDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
