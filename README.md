@@ -32,15 +32,3 @@
 
 ### 👨‍💻 Sobre mim: 
   - Eu sou desenvolvedor Back-End, domino a linguagem PHP também utilizo e domino o framework LARAVEL, desenvolvendo projetos tantos simples quanto mais complexos do absoluto zero!
-
-### 🔥 Meu Status
-
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=VictorSantosDev&border_radius=15.5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&type=png)](https://git.io/streak-stats)
-
-
-</div>
-
-![Snake animation](https://github.com/VictorSantosDev/VictorSantosDev/blob/output/github-contribution-grid-snake.svg)
-
